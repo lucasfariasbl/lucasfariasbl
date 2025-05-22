@@ -10,9 +10,14 @@ Me chamo Lucas Lima, tenho 18 anos e sou natural da Paraíba. Conclui meu ensino
             src="https://custom-icon-badges.demolab.com/github/stars/lucasfariasbl?color=ff4200&style=for-the-badge&labelColor=ff0000&logo=star&label=estrelas"
         />
     </a>
+    <a href="https://github.com/lucasfariasbl?tab=followers"> 
+        <img
+            alt="Seguidores no GitHub" 
+            title="Me siga no GitHub" 
+            src="https://img.shields.io/github/followers/lucasfariasbl?color=268210&label=Seguidores&labelColor=31a515&style=for-the-badge"
+            >
+    </a>
 </p>
-
-![GitHub followers](https://img.shields.io/github/followers/lucasfariasbl?color=268210&label=Seguidores&labelColor=31a515&style=for-the-badge)
 
 ---
 
