@@ -69,7 +69,7 @@ Me chamo Lucas Lima, tenho 18 anos e sou natural da Paraíba. Conclui meu ensino
     alt="Github Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfariasbl&theme=github_dark&custom_title=Tecnologias&border_color=1e21fc" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfariasbl&theme=github_dark&custom_title=Tecnologias&border_color=1e21fc&include_all_commits=true" 
   />
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3d4cfc&height=150&section=footer"/>
