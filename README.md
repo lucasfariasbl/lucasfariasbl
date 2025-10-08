@@ -1,6 +1,6 @@
 ## ⚡ Lucas Lima 
 
-Me chamo Lucas Lima, tenho 18 anos e sou natural da Paraíba. Conclui meu ensino médio no IFPB, em Campina Grande. Atualmente sou estudante do 3° período do curso de Ciência da Computação pela Universidade Federal de Campina Grande.
+Me chamo Lucas Lima, tenho 19 anos e sou natural da Paraíba. Conclui meu ensino médio no IFPB, em Campina Grande. Atualmente sou estudante do 4° período do curso de Ciência da Computação pela Universidade Federal de Campina Grande.
 
 <p align="left">
     <a href="https://github.com/lucasfariasbl?tab=repositories&sort=stargazers">
